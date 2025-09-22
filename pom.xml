@@ -24,8 +24,8 @@
 	<dependency>
 	    <groupId>org.junit.jupiter</groupId>
 	    <artifactId>junit-jupiter-api</artifactId>
-	    <version>6.0.0-RC3</version>
-	    <scope>test-check</scope>
+	    <version>6.0.0-M1</version>
+	    <scope>test</scope>
 	</dependency>
 	<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
 	<dependency>
